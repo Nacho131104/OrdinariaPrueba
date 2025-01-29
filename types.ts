@@ -6,7 +6,7 @@ export type ContactModel = OptionalId<{
     nombreYapellidos: string,
     telefono: string,
     pais: string,
-    hora: string,
+    timezone: string,
 }>
 
 
